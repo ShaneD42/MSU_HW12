@@ -1,0 +1,24 @@
+{
+  "name": "msu_hw12",
+  "version": "1.0.0",
+  "description": "MSU Bootcamp HW 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaneD42/MSU_HW12.git"
+  },
+  "author": "ShaneD42",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaneD42/MSU_HW12/issues"
+  },
+  "homepage": "https://github.com/ShaneD42/MSU_HW12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
