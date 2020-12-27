@@ -102,6 +102,6 @@ How do you deliver this? Here are some guidelines:
 
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
   
-  ![Foto 1](Screen Shot 2020-12-27 at 3.17.40 PM.png)
+  ![Foto 1](employeetracker.png)
   
   [Link to Demo Video](https://www.youtube.com/watch?v=4TdJNExWq0Q)
