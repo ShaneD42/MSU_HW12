@@ -101,3 +101,5 @@ How do you deliver this? Here are some guidelines:
   * Delete departments, roles, and employees
 
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
+  
+  [Link to Demo Video](https://www.youtube.com/watch?v=4TdJNExWq0Q)
